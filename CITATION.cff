@@ -1,1 +1,12 @@
-
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Dunsing"
+  given-names: "Valentin"
+  orcid: "https://orcid.org/0000-0003-2482-1498"
+- family-names: "Chiantia"
+  given-names: "Salvatore"
+  orcid: "https://orcid.org/0000-0003-0791-967X"
+title: "SpectralFFS"
+date-released: 2021-08-23
+url: "https://github.com/VaDu8989/SpectralFFS"
